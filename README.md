@@ -1,16 +1,13 @@
-### Hi there 👋
+### Всем привет 👋, меня зовут Тимур
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Rizerrr/Rizerrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я новичок в программировании на Python и ищу практический опыт. Меня интересует возможность найти реальные проекты с задачами, подобными тем, что решаются в компаниях. В данный момент я прохожу обучение на курсе "Data Science: Программирование нейронных сетей (Машинное обучение)", а также обучаюсь в АПОУ УР «Техникум радиоэлектроники и информационных технологий» где я познаю не само программирование на Python, а больше изучаю разные подходы к задачам.
 
-Here are some ideas to get you started:
+Skills: Py
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Сейчас я изучаю Python
+- 🤔Мне нужна помощь с нахождением практики 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/Rizerrr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/rizerr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](_rizer_1)  
+
