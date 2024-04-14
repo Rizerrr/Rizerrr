@@ -3,7 +3,7 @@
 
 Я новичок в программировании на Python и ищу практический опыт. Меня интересует возможность найти реальные проекты с задачами, подобными тем, что решаются в компаниях. В данный момент я прохожу обучение на курсе "Data Science: Программирование нейронных сетей (Машинное обучение)", а также обучаюсь в АПОУ УР «Техникум радиоэлектроники и информационных технологий» где я познаю не само программирование на Python, а больше изучаю разные подходы к задачам.
 ## My project Set 
-  <a href="https://www.w3schools.com/css/](https://github.com/Rizerrr/GAN-MNIST" target="_blank"><p>MNIST GAN</p></a>  
+  <a href="https://www.w3schools.com/css/](https://github.com/Rizerrr/GAN-MNIST" target="_blank">MNIST GAN</a>  
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
